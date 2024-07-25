@@ -1,0 +1,30 @@
+AirBnB
+For Booking or rent places
+
+Three Phases 
+
+Getting Started
+#Database Set UP
+#Rest Apis for CRUD
+
+Setting UP
+In the terminal 
+-> npm init -y
+-> npm i express
+-> npm i ejs
+-> npm i mongoose
+
+Mode : Listing --> title, description, image, price, location, country
+
+Passport.js --> Authentication strategies
+
+
+
+MVC : implement Pattern for Listings
+Models, View, Controller
+
+Model --> To store Database Models (Database)
+Views --> Things we want to render (Front-end)
+Controller --> The store backend core functionality (Back-end)
+
+In applications or projects we need to make our code more readable
