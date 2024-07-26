@@ -73,9 +73,9 @@ main()
     console.log(err);
   });
 
-app.get("/", (req, res) => {
-  res.send("Hi ! I am root");
-});
+// app.get("/", (req, res) => {
+//   res.send("Hi ! I am root");
+// });
 
 app.use(session(sessionOptions));
 app.use(flash()); //We should use it before routes only4
